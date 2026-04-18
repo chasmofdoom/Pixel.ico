@@ -12,10 +12,10 @@ For the trash bin and user icons, go to "Settings>Personalization>Themes>Desktop
   Converseen
   DDnet
   Discord
-  Documents
+  Documents folder
   Dovetail
   Downloads
-  Files
+  File Explorer
   Firefox
   Fusion 360
   Geometry Dash
@@ -25,18 +25,18 @@ For the trash bin and user icons, go to "Settings>Personalization>Themes>Desktop
   Kyber Launcher
   Livesplit
   Losslesscut
-  User Directory
+  User Folder
   Micro Platformer
-  Modrinth File Directory
+  Modrinth Folder
   Modrinth Launcher
   Overwatch 2
   Paint.net
   Photopea
-  Pictures
+  Pictures Folder
   Pycharm
   Redmatch 2
   Advanced Renamer
-  Videos
+  Videos Folder
   Stacher7
   Steam
   Task Manager
@@ -45,4 +45,17 @@ For the trash bin and user icons, go to "Settings>Personalization>Themes>Desktop
   Vencord Updater
   VLC
   VScode
+  Davinci Resolve
+  Endless Sky
+  Endless Sky Folder
+  Enlisted
+  Jedi Fallen Order
+  Kitsune Launcher
+  Nvidia Geforce
+  Redragon
+  Settings
+  Star Wars the Old Republic
+  Synfig Studio
+  VTFedit
+  War Thunder
 </pre>
