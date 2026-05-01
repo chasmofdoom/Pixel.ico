@@ -58,4 +58,6 @@ For the trash bin and user icons, go to "Settings>Personalization>Themes>Desktop
   Synfig Studio
   VTFedit
   War Thunder
+  Everything (the app, we dont got every app unfortunately)
+  Restart Icon
 </pre>
