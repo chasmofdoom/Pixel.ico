@@ -60,4 +60,6 @@ For the trash bin and user icons, go to "Settings>Personalization>Themes>Desktop
   War Thunder
   Everything (the app, we dont got every app unfortunately)
   Restart Icon
+  Unknown file
+  Unknown executable
 </pre>
